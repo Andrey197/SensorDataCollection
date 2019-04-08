@@ -75,9 +75,9 @@ public class Buildings_DB {
                     R.drawable.at_null,
                     R.drawable.at_null,
                     R.drawable.at_null,
-                    R.drawable.plan_1_1,
+                    R.drawable.plan_1_1_rotate,
             });
-            buildings[index].setCenterAndWidth(new LatLng(44.4349670, 26.04775), 27f);
+            buildings[index].setCenterAndWidth(new LatLng(44.434975, 26.047751), 30f);
         }
 
 
